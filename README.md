@@ -25,10 +25,13 @@ To run this project locally, follow these steps:
    git clone https://github.com/AmanKumarWeb19/calculator.git
 1.Change into the project directory:
    cd calculator
+   
 2.Install dependencies:
    npm install
+   
 3.Start the development server:
    npm start
+   
 The calculator should now be accessible at http://localhost:3000 in your web browser.
 
 Usage
