@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
    
 The calculator should now be accessible at http://localhost:3000 in your web browser.
 
-Usage
+##Usage
 
 1.Enter the first number.
 
@@ -45,14 +45,18 @@ Usage
 4.Click the "Calculate" button to see the result.
 
 
-Contributing
+##Contributing
 
 If you'd like to contribute to this project, please follow these steps:
 
 1.Fork the repository.
+
 2.Create a new branch for your feature or bug fix.
+
 3.Make your changes and commit them with a descriptive commit message.
+
 4.Push your changes to your fork.
+
 5.Submit a pull request.
 
 
