@@ -1,7 +1,5 @@
 # Calculator Project
 
-![Calculator](<Link to an image of your calculator if available>)
-
 ## Description
 
 This is a simple calculator project that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The project is built using <mention the technologies, frameworks, or libraries you used>.
@@ -25,21 +23,12 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/AmanKumarWeb19/calculator.git
-Change into the project directory:
-
-bash
-Copy code
-cd calculator
-Install dependencies:
-
-bash
-Copy code
-npm install
-Start the development server:
-
-bash
-Copy code
-npm start
+1.Change into the project directory:
+   cd calculator
+2.Install dependencies:
+   npm install
+3.Start the development server:
+   npm start
 The calculator should now be accessible at http://localhost:3000 in your web browser.
 
 Usage
