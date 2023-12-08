@@ -35,22 +35,35 @@ To run this project locally, follow these steps:
 The calculator should now be accessible at http://localhost:3000 in your web browser.
 
 Usage
-Enter the first number.
-Select the operation (+, -, *, /).
-Enter the second number.
-Click the "Calculate" button to see the result.
+
+1.Enter the first number.
+
+2.Select the operation (+, -, *, /).
+
+3.Enter the second number.
+
+4.Click the "Calculate" button to see the result.
+
+
 Contributing
+
 If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them with a descriptive commit message.
-Push your changes to your fork.
-Submit a pull request.
+1.Fork the repository.
+2.Create a new branch for your feature or bug fix.
+3.Make your changes and commit them with a descriptive commit message.
+4.Push your changes to your fork.
+5.Submit a pull request.
+
+
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
+
 Mention any third-party libraries, tutorials, or resources you used.
+
 Contact
+
 If you have any questions or suggestions, feel free to contact me at [akgupta0524@gmail.com].
